@@ -9,4 +9,5 @@ Este repositorio proporciona guías detalladas, herramientas y mods seleccionado
 No brindamos soporte individual, pero estamos comprometidos a ofrecer recursos generales.
 Explora las guías de instalación,optimiza el rendimiento y disfruta de la experiencia en Central Official.
 
-Hecho por ManzanitaJuice
+Hecho por ManzanitaJuice.
+https://discord.gg/CmrYjUtNsr
